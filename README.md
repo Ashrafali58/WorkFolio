@@ -36,7 +36,7 @@
 Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/NotHumanFF/Online-Job-Portal-With-AI.git
+git clone https://github.com/Ashrafali58/WorkFolio.git
 ```
 
 ### 2. Configuring Application
@@ -109,6 +109,7 @@ And all set.
 Below is the UML diagram that illustrates the architecture and relationships of the **Workfolio** application:
 
 <img src="./demo/chatuml-diagram.png" alt="UML Diagram" width="500px"> 
+<img src="./demo/Sequence Diagram.png" alt="UML Diagram" width="500px"> 
 
 
 ---
